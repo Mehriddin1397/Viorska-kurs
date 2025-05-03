@@ -1,0 +1,11 @@
+h1.active{
+	color: white;
+	background-color: green;
+}
+
+a.active{
+	color: red;
+	font-weight: bold;
+	font-family: sans-serif;
+	text-decoration: none;
+}
